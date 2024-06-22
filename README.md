@@ -6,15 +6,15 @@
 
 ### Integrantes:
 
-**Fretel Calderón, Milagros Valeria**
+- **Fretel Calderón, Milagros Valeria**
 
-**Obispo Velásquez, Miller Joaquín**
+- **Obispo Velásquez, Miller Joaquín**
 
-**Obregón Morales, Conie Lizy**
+- **Obregón Morales, Conie Lizy**
 
-**Pimentel Pimentel, Erick Iver**
+- **Pimentel Pimentel, Erick Iver**
 
-**Rojas Torres, Brayan Jesús Alexander**
+- **Rojas Torres, Brayan Jesús Alexander**
 
 
 ## Descripción de los archivos:
