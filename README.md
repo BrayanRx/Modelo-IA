@@ -12,7 +12,7 @@
 
 **Obregón Morales, Conie Lizy**
 
-**Pimentel Pimentel, Erick Iver
+**Pimentel Pimentel, Erick Iver**
 
 **Rojas Torres, Brayan Jesús Alexander**
 
